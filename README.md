@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Prakash Makvana
 
+***Robotics & Perception Engineer*** • ***Computer Vision & 3D Perception*** • ***SLAM & Sensor Fusion*** • ***Deep Learning***
+
+I build perception and localization systems that help robots **see, understand, and navigate the real world**.
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -7,11 +11,6 @@
 </a>
 
 </div>
-
-
-***Robotics & Perception Engineer*** • ***Computer Vision & 3D Perception*** • ***SLAM & Sensor Fusion*** • ***Deep Learning***
-
-I build perception and localization systems that help robots **see, understand, and navigate the real world**.
 
 ---
 
