@@ -92,8 +92,6 @@ I'm currently interested in developing robust perception and localization system
 
 ## 🌐 Let's Connect
 
-## 🌐 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/prakash-makvana/">LinkedIn</a>
   •
