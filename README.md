@@ -1,10 +1,14 @@
 # 👋 Hi, I'm Prakash Makvana
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Robotics+%26+Perception;Computer+Vision;Object+Detection;Object+Tracking;3D+Perception;SLAM+%26+Localization;Sensor+Fusion;3D+Reconstruction;Deep+Learning+for+Robotics;Underwater+Robotics" alt="Typing SVG" />
+  </a>
+</p>
+
 ***Robotics & Perception Engineer*** • ***Computer Vision & 3D Perception*** • ***SLAM & Sensor Fusion*** • ***Deep Learning***
 
-I build perception and localization systems that help robots **see, understand, and navigate in the real world**.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Robotics+%26+Perception;Computer+Vision;Object+Detection;Object+Tracking;3D+Perception;SLAM+%26+Localization;Sensor+Fusion;3D+Reconstruction;Deep+Learning+for+Robotics;Underwater+Robotics)](https://git.io/typing-svg)
+I build perception and localization systems that help robots **see, understand, and navigate the real world**.
 
 ---
 
@@ -14,7 +18,7 @@ I build perception and localization systems that help robots **see, understand, 
 * 👁️ Build **computer vision & deep learning pipelines** for detection, tracking, segmentation, and pose estimation
 * 🌐 Work with **3D point clouds, depth cameras, stereo vision, and DVL/odometry**
 * 🗺️ Develop **SLAM, localization, trajectory estimation, and sensor-fusion** pipelines
-* ⚙️ Build and integrate perception systems using **Python, C++, ROS 2, PyTorch, and OpenCV**
+* ⚙️ Build and integrate robotic perception systems using **Python, C++, ROS 2, PyTorch, and OpenCV**
 
 ---
 
@@ -55,7 +59,7 @@ I build perception and localization systems that help robots **see, understand, 
 `Python` `C++` `NumPy` `Pandas`
 
 **⚙️ Tools & Infrastructure**
-`Git` `Docker` `Linux` `CUDA` `ROS 2` `Jupyter`
+`Git` `Docker` `Linux` `CUDA` `Jupyter`
 
 ---
 
@@ -78,9 +82,9 @@ I'm currently interested in developing robust perception and localization system
 * Combine **classical robotics + modern deep learning**
 * Work with **real robotic sensors and real-world data**, not only benchmark datasets
 * Experience across the full perception pipeline:
-  **Sensors → Detection → Segmentation → Depth → 3D → Pose → Localization**
+  **Sensors → Detection → Tracking → Segmentation → Depth → 3D → Pose → Localization**
 * Comfortable working from **mathematical algorithms to ROS 2 implementation**
-* Strong interest in turning research methods into **working robotic systems**
+* Interested in turning **research methods into robust, working robotic systems**
 
 ---
 
@@ -91,4 +95,3 @@ I'm currently interested in developing robust perception and localization system
 ---
 
 > *Building robots that can perceive, localize, and understand the world around them.*
-
