@@ -28,9 +28,9 @@ I build perception and localization systems that help robots **see, understand, 
 
 | 🏢 Organization             | 📅 Role             | 🛠 Focus                                             |
 | --------------------------- | ------------------- | ---------------------------------------------------- |
-| **DFKI**                    | Assistant Scientist | Underwater Robotics, Perception, SLAM, Sensor Fusion |
+| **DFKI GMBH**                    | Assistant Scientist | Underwater Robotics, Perception, SLAM, Sensor Fusion |
 | **Hochschule Schmalkalden** | Research Assistant  | 3D Computer Vision, Point Clouds, Image Processing   |
-| **Tirth Agro Technology**   | Project & Manufacturing Engineer | Mechanical Engineering, Product Development          |
+| **Tirth Agro Technology Pvt. Ltd.**   | Project & Manufacturing Engineer | Mechanical Engineering, Product Development          |
 
 ---
 
