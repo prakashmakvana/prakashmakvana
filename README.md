@@ -92,7 +92,7 @@ I'm currently interested in developing robust perception and localization system
 
 ## 🌐 Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](YOUR_GITHUB_URL) • [Email](mailto:YOUR_EMAIL)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/prakash-makvana/) • [GitHub]([YOUR_GITHUB_URL](https://github.com/prakashmakvana) • [Email](mailto:pd06makvana@gmail.com)
 
 ---
 
