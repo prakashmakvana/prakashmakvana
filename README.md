@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Prakash Makvana
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Robotics+%26+Perception;Computer+Vision;Object+Detection;Object+Tracking;3D+Perception;SLAM+%26+Localization;Sensor+Fusion;3D+Reconstruction;Deep+Learning+for+Robotics;Underwater+Robotics" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Robotics+%26+Perception;Computer+Vision;Object+Detection;Object+Tracking;3D+Perception;SLAM+%26+Localization;Sensor+Fusion;3D+Reconstruction;Deep+Learning+for+Robotics;Underwater+Robotics" alt="Typing SVG">
+</a>
+
+</div>
+
 
 ***Robotics & Perception Engineer*** • ***Computer Vision & 3D Perception*** • ***SLAM & Sensor Fusion*** • ***Deep Learning***
 
