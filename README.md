@@ -1,16 +1,92 @@
-## Hi there 👋
+# 👋 Hi, I'm Prakash Makvana
 
-<!--
-**prakashmakvana/prakashmakvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Robotics & Perception Engineer*** • ***Computer Vision & 3D Perception*** • ***SLAM & Sensor Fusion*** • ***Deep Learning***
 
-Here are some ideas to get you started:
+I build perception and localization systems that help robots **see, understand, and navigate in the real world**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Do
+
+* 🤖 Develop **robot perception and autonomous systems**
+* 👁️ Build **computer vision & deep learning pipelines** for detection, tracking, segmentation, and pose estimation
+* 🌐 Work with **3D point clouds, depth cameras, stereo vision, and DVL/odometry**
+* 🗺️ Develop **SLAM, localization, trajectory estimation, and sensor-fusion** pipelines
+* ⚙️ Build and integrate perception systems using **Python, C++, ROS 2, PyTorch, and OpenCV**
+
+---
+
+## 🗂️ Experience
+
+| 🏢 Organization             | 📅 Role             | 🛠 Focus                                             |
+| --------------------------- | ------------------- | ---------------------------------------------------- |
+| **DFKI**                    | Research / Thesis   | Underwater Robotics, Perception, SLAM, Sensor Fusion |
+| **Hochschule Schmalkalden** | Research Assistant  | 3D Computer Vision, Point Clouds, Image Processing   |
+| **Tirth Agro Technology**   | Mechanical Engineer | Mechanical Engineering, Product Development          |
+
+---
+
+## 🚀 Selected Projects
+
+| Project                                     | What I Worked On                                                                                                                                         | Tech                                       |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **🌊 Underwater Robot Perception Pipeline** | Integrated object detection, tracking, segmentation, stereo depth, pose estimation, ESKF filtering, and dead reckoning for underwater robotic perception | `ROS 2` `Python` `PyTorch` `OpenCV` `SAM2` |
+| **🗺️ SLAM & Trajectory Estimation**        | Worked with odometry, DVL velocity, pose graphs, trajectory alignment, dead reckoning, and ground-truth evaluation                                       | `GTSAM` `ROS 2` `NumPy` `SE(3)`            |
+| **📷 3D Multi-Camera Reconstruction**       | Developed pipelines for capturing, processing, registering, and combining 3D point clouds from multiple ToF cameras                                      | `Open3D` `ICP` `SIFT` `IFM3D`              |
+| **🎯 Underwater Object Detection**          | Built and trained deep-learning pipelines for underwater object detection and perception                                                                 | `YOLO` `PyTorch` `OpenCV`                  |
+| **🧩 Point Cloud Registration**             | Implemented ICP-based alignment and multi-scale point-cloud registration for 3D reconstruction                                                           | `Open3D` `ICP` `Python`                    |
+
+---
+
+## 🧰 Tech Stack
+
+**🤖 Robotics & Localization**
+`ROS 2` `GTSAM` `SLAM` `Pose Graphs` `Sensor Fusion` `ESKF` `Odometry` `DVL`
+
+**👁️ Computer Vision & 3D Perception**
+`OpenCV` `Open3D` `Point Clouds` `Stereo Vision` `Depth Estimation` `SIFT` `ICP`
+
+**🧠 AI / Deep Learning**
+`PyTorch` `TensorFlow` `YOLO` `SAM2` `Transformers` `Scikit-learn`
+
+**💻 Programming**
+`Python` `C++` `NumPy` `Pandas`
+
+**⚙️ Tools & Infrastructure**
+`Git` `Docker` `Linux` `CUDA` `ROS 2` `Jupyter`
+
+---
+
+## 🔬 Current Focus
+
+I'm currently interested in developing robust perception and localization systems for autonomous robots, particularly:
+
+* **Visual & 3D SLAM**
+* **Factor Graph Optimization**
+* **Multi-Sensor Fusion**
+* **Underwater Robotics**
+* **3D Gaussian Splatting for Robotics**
+* **Object-Level Perception & Pose Estimation**
+* **Learning-based Robotic Perception**
+
+---
+
+## 🎯 What Sets My Work Apart
+
+* Combine **classical robotics + modern deep learning**
+* Work with **real robotic sensors and real-world data**, not only benchmark datasets
+* Experience across the full perception pipeline:
+  **Sensors → Detection → Segmentation → Depth → 3D → Pose → Localization**
+* Comfortable working from **mathematical algorithms to ROS 2 implementation**
+* Strong interest in turning research methods into **working robotic systems**
+
+---
+
+## 🌐 Let's Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](YOUR_GITHUB_URL) • [Email](mailto:YOUR_EMAIL)
+
+---
+
+> *Building robots that can perceive, localize, and understand the world around them.*
+
