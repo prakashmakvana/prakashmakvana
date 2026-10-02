@@ -2,31 +2,33 @@
 
 # 👋 Hi, I'm Prakash Makvana
 
-### Robotics & Perception · Computer Vision · 3D Vision · SLAM · Deep Learning
+### Machine Learning · Computer Vision · 3D Vision
 
-I work on perception and localization for robotic systems, combining  
-**computer vision, 3D geometry, machine learning, and estimation.**
+Robotics · Perception · 6D Pose Estimation · SLAM
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=680&height=50&lines=Robotics+%26+Perception;Computer+Vision;3D+Vision;SLAM+%26+Localization;Sensor+Fusion;6D+Pose+Estimation;Deep+Learning+for+Robotics" alt="Typing SVG">
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=650&height=45&lines=Machine+Learning;Computer+Vision;3D+Vision;Robotic+Perception;6D+Pose+Estimation;SLAM+%26+Localization"
+  alt="Typing SVG"
+/>
 
 </div>
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I Work On
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center">
 
-### 🤖 Robotics
+### 🧠 Machine Learning
 
-Perception pipelines  
-ROS 2  
-Localization  
-Sensor integration
+Deep Learning  
+PyTorch  
+Vision Models  
+Representation Learning
 
 </td>
 
@@ -37,18 +39,18 @@ Sensor integration
 Detection  
 Tracking  
 Segmentation  
-Pose estimation
+Pose Estimation
 
 </td>
 
 <td width="33%" align="center">
 
-### 🌐 3D Perception
+### 🌐 3D Vision
 
-Point clouds  
-Stereo & depth  
-Registration  
-3D reconstruction
+Point Clouds  
+Stereo & Depth  
+3D Reconstruction  
+Geometric Vision
 
 </td>
 </tr>
@@ -56,34 +58,34 @@ Registration
 <tr>
 <td align="center">
 
-### 🗺️ SLAM
+### 🎯 6D Perception
 
+Pose Estimation  
+Pose Refinement  
+Temporal Consistency  
+Uncertainty
+
+</td>
+
+<td align="center">
+
+### 🤖 Robotics
+
+ROS 2  
+Perception Pipelines  
 Localization  
-Trajectory estimation  
-Pose graphs  
-State estimation
+Autonomous Systems
 
 </td>
 
 <td align="center">
 
-### 🧠 Deep Learning
+### 🗺️ Estimation
 
-PyTorch  
-Vision models  
-Representation learning  
-Model experimentation
-
-</td>
-
-<td align="center">
-
-### ⚙️ Sensor Fusion
-
+SLAM  
+Sensor Fusion  
 Odometry  
-DVL  
-ESKF  
-Multi-sensor estimation
+State Estimation
 
 </td>
 </tr>
@@ -93,94 +95,114 @@ Multi-sensor estimation
 
 ## 🗂️ Experience
 
-| Organization | Area | Focus |
-|:---|:---|:---|
-| **DFKI GMBH** | Robotics & Perception | Computer Vision · Underwater Robotics · SLAM · Sensor Fusion |
-| **Hochschule Schmalkalden** | 3D Computer Vision | Point Clouds · Image Processing · 3D Reconstruction |
-| **Tirth Agro Technology Pvt. Ltd.** | Engineering | Product Development · Manufacturing · Mechanical Engineering |
+<table width="100%">
+<tr>
+<th align="left">Organization</th>
+<th align="left">Area</th>
+<th align="left">Focus</th>
+</tr>
+
+<tr>
+<td><strong>DFKI GMBH</strong></td>
+<td>Robotics & Perception</td>
+<td>Computer Vision · 3D Perception · Underwater Robotics · SLAM</td>
+</tr>
+
+<tr>
+<td><strong>Hochschule Schmalkalden</strong></td>
+<td>3D Computer Vision</td>
+<td>Point Clouds · Image Processing · 3D Reconstruction</td>
+</tr>
+
+<tr>
+<td><strong>Tirth Agro Technology Pvt. Ltd.</strong></td>
+<td>Engineering</td>
+<td>Product Development · Manufacturing · Mechanical Systems</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Selected Projects
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
-
-### 🌊 Underwater Robot Perception
-
-Integrated perception pipeline covering detection, tracking, segmentation, stereo depth, pose estimation, filtering, and dead reckoning.
-
-**Stack**
-
-`ROS 2` · `Python` · `PyTorch` · `OpenCV` · `SAM2`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗺️ SLAM & Trajectory Estimation
-
-Worked with odometry, DVL measurements, trajectory alignment, pose graphs, dead reckoning, and localization.
-
-**Stack**
-
-`GTSAM` · `ROS 2` · `NumPy` · `SE(3)`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### 📷 3D Multi-Camera Reconstruction
-
-Processing and registration of 3D data from multiple ToF cameras for geometric reconstruction.
-
-**Stack**
-
-`Open3D` · `ICP` · `SIFT` · `IFM3D`
-
-</td>
-
-<td valign="top">
 
 ### 🎯 6D Pose Estimation
 
-Experiments with learning-based pose estimation, temporal consistency, pose refinement, and uncertainty estimation.
+Learning-based pose estimation with experiments around pose refinement, temporal consistency, and uncertainty.
 
-**Stack**
+<br>
 
 `PyTorch` · `FoundationPose` · `SE(3)`
 
 </td>
 
+<td width="50%" valign="top">
+
+### 📷 3D Computer Vision
+
+Multi-camera 3D processing, depth, point clouds, registration, and geometric reconstruction.
+
+<br>
+
+`Open3D` · `OpenCV` · `SIFT` · `ICP`
+
+</td>
+
 </tr>
 
 <tr>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### 🧩 Point Cloud Registration
+### 🌊 Underwater Visual Perception
 
-Feature-based and ICP-based alignment of point clouds and multi-view 3D data.
+Computer vision pipeline involving detection, tracking, segmentation, stereo depth, and pose estimation.
 
-**Stack**
+<br>
+
+`ROS 2` · `PyTorch` · `OpenCV` · `SAM2`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Point Cloud Processing
+
+Feature-based and ICP-based alignment of 3D point clouds and multi-view data.
+
+<br>
 
 `Open3D` · `ICP` · `Python`
 
 </td>
 
-<td valign="top">
+</tr>
 
-### 🔬 Perception Experiments
+<tr>
 
-Experiments with modern computer vision and learning-based methods for robotic perception.
+<td width="50%" valign="top">
 
-**Stack**
+### 🗺️ SLAM & Localization
+
+Trajectory estimation, odometry, DVL measurements, pose graphs, and state estimation.
+
+<br>
+
+`GTSAM` · `ROS 2` · `NumPy` · `SE(3)`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔬 Vision & ML Experiments
+
+Experiments with modern learning-based methods for computer vision and robotic perception.
+
+<br>
 
 `Python` · `PyTorch` · `3D Vision`
 
@@ -191,65 +213,84 @@ Experiments with modern computer vision and learning-based methods for robotic p
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-### Languages
+### Machine Learning & Vision
 
-<img src="https://skillicons.dev/icons?i=python,cpp" height="55" alt="Python and C++">
-
-<br><br>
-
-### AI / Deep Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="55" alt="PyTorch and TensorFlow">
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv" height="52" alt="Python C++ PyTorch OpenCV">
 
 <br><br>
 
-### Computer Vision & 3D
+### Robotics & Development
 
-<img src="https://skillicons.dev/icons?i=opencv" height="55" alt="OpenCV">
-
-<br>
-
-<img src="https://img.shields.io/badge/Open3D-3D%20Vision-111827?style=for-the-badge&logo=opengl&logoColor=white" alt="Open3D">
-<img src="https://img.shields.io/badge/Point%20Clouds-3D%20Perception-111827?style=for-the-badge&logo=cloudsmith&logoColor=white" alt="Point Clouds">
-<img src="https://img.shields.io/badge/Stereo%20Vision-Depth-111827?style=for-the-badge&logo=3d&logoColor=white" alt="Stereo Vision">
+<img src="https://skillicons.dev/icons?i=ros,linux,docker,git,github,vscode,cmake" height="52" alt="ROS Linux Docker Git GitHub VS Code CMake">
 
 <br><br>
 
-### Robotics & Estimation
-
-<img src="https://skillicons.dev/icons?i=ros,docker,linux" height="55" alt="ROS Docker Linux">
-
-<br>
-
-<img src="https://img.shields.io/badge/GTSAM-Factor%20Graphs-111827?style=for-the-badge&logo=graphene&logoColor=white" alt="GTSAM">
-<img src="https://img.shields.io/badge/SLAM-Localization-111827?style=for-the-badge&logo=mapbox&logoColor=white" alt="SLAM">
-<img src="https://img.shields.io/badge/ESKF-State%20Estimation-111827?style=for-the-badge&logo=signal&logoColor=white" alt="ESKF">
-
-<br><br>
-
-### Vision Models
-
-<img src="https://img.shields.io/badge/YOLO-Object%20Detection-111827?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO">
-<img src="https://img.shields.io/badge/SAM2-Segmentation-111827?style=for-the-badge&logo=meta&logoColor=white" alt="SAM2">
-<img src="https://img.shields.io/badge/Transformers-Deep%20Learning-111827?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers">
-
-<br><br>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,cmake" height="55" alt="Git GitHub Docker Linux VS Code CMake">
-
-<br>
-
-<img src="https://img.shields.io/badge/CUDA-GPU%20Computing-111827?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="CUDA">
-<img src="https://img.shields.io/badge/Jupyter-Experiments-111827?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter">
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy">
+<code>Open3D</code>
+<code>GTSAM</code>
+<code>YOLO</code>
+<code>SAM2</code>
+<code>Transformers</code>
+<code>NumPy</code>
+<code>CUDA</code>
+<code>Jupyter</code>
 
 </div>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="25%" align="center">
+
+**Machine Learning**
+
+PyTorch  
+Transformers  
+YOLO  
+SAM2
+
+</td>
+
+<td width="25%" align="center">
+
+**Computer Vision**
+
+OpenCV  
+Open3D  
+SIFT  
+ICP
+
+</td>
+
+<td width="25%" align="center">
+
+**3D & Perception**
+
+Point Clouds  
+Stereo  
+Depth  
+6D Pose
+
+</td>
+
+<td width="25%" align="center">
+
+**Robotics**
+
+ROS 2  
+GTSAM  
+SLAM  
+Sensor Fusion
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -259,31 +300,7 @@ Experiments with modern computer vision and learning-based methods for robotic p
 
 `6D Pose Estimation` · `Temporal Consistency` · `Uncertainty Estimation`
 
-`Visual SLAM` · `3D Gaussian Splatting` · `Multi-Sensor Fusion`
-
-</div>
-
-I particularly enjoy problems where **geometry, estimation, and machine learning meet**.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prakashmakvana&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashmakvana&layout=compact&hide_border=true" height="165" alt="Top Languages">
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="GitHub 3D contribution activity">
+`3D Vision` · `Visual SLAM` · `3D Gaussian Splatting`
 
 </div>
 
@@ -294,23 +311,19 @@ I particularly enjoy problems where **geometry, estimation, and machine learning
 <div align="center">
 
 <a href="https://www.linkedin.com/in/prakash-makvana/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
+&nbsp;
 <a href="https://github.com/prakashmakvana">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
-
+&nbsp;
 <a href="mailto:pd06makvana@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-> *Building perception systems for robots — one experiment at a time.*
+<sub>Building with vision, learning, and 3D.</sub>
 
 </div>
