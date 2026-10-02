@@ -1,36 +1,31 @@
 # 👋 Hi, I'm Prakash Makvana
 
-***Robotics & Perception Engineer*** • ***Computer Vision & 3D Perception*** • ***SLAM & Sensor Fusion*** • ***Deep Learning***
+**Robotics & Perception** • **Computer Vision & 3D Perception** • **SLAM & Sensor Fusion** • **Deep Learning**
 
-I build perception and localization systems that help robots **see, understand, and navigate the real world**.
+I work on perception and localization systems that help robots **see, understand, and navigate the real world**.
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Robotics+%26+Perception;Computer+Vision;Object+Detection;Object+Tracking;3D+Perception;SLAM+%26+Localization;Sensor+Fusion;3D+Reconstruction;Deep+Learning+for+Robotics;Underwater+Robotics" alt="Typing SVG">
-</a>
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&height=50\&lines=Robotics+%26+Perception;Computer+Vision;3D+Perception;SLAM+%26+Localization;Sensor+Fusion;3D+Reconstruction;Deep+Learning+for+Robotics;Underwater+Robotics)](https://git.io/typing-svg)
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I Work On
 
-* 🤖 Develop **robot perception and autonomous systems**
-* 👁️ Build **computer vision & deep learning pipelines** for detection, tracking, segmentation, and pose estimation
-* 🌐 Work with **3D point clouds, depth cameras, stereo vision, and DVL/odometry**
-* 🗺️ Develop **SLAM, localization, trajectory estimation, and sensor-fusion** pipelines
-* ⚙️ Build and integrate robotic perception systems using **Python, C++, ROS 2, PyTorch, and OpenCV**
+* 🤖 **Robotic perception and autonomous systems**
+* 👁️ **Computer vision & deep learning** for detection, tracking, segmentation, and pose estimation
+* 🌐 **3D perception** using point clouds, depth cameras, stereo vision, and multi-camera systems
+* 🗺️ **SLAM, localization, trajectory estimation, and sensor fusion**
+* ⚙️ **Robotics software** using Python, C++, ROS 2, PyTorch, and OpenCV
+* 🧩 **3D reconstruction and geometric computer vision**
 
 ---
 
 ## 🗂️ Experience
 
-| 🏢 Organization             | 📅 Role             | 🛠 Focus                                             |
-| --------------------------- | ------------------- | ---------------------------------------------------- |
-| **DFKI GMBH**                    | Assistant Scientist | Underwater Robotics, Perception, SLAM, Sensor Fusion |
-| **Hochschule Schmalkalden** | Research Assistant  | 3D Computer Vision, Point Clouds, Image Processing   |
-| **Tirth Agro Technology Pvt. Ltd.**   | Project & Manufacturing Engineer | Mechanical Engineering, Product Development          |
+| 🏢 Organization                     | 🔬 Area of Work                                            |
+| ----------------------------------- | ---------------------------------------------------------- |
+| **DFKI GMBH**                       | Robotics, Computer Vision, Perception, SLAM, Sensor Fusion |
+| **Hochschule Schmalkalden**         | 3D Computer Vision, Point Clouds, Image Processing         |
+| **Tirth Agro Technology Pvt. Ltd.** | Engineering, Product Development, Manufacturing            |
 
 ---
 
@@ -67,39 +62,34 @@ I build perception and localization systems that help robots **see, understand, 
 
 ## 🔬 Current Focus
 
-I'm currently interested in developing robust perception and localization systems for autonomous robots, particularly:
+I'm currently exploring robust perception and localization methods for autonomous robotic systems, with a focus on:
 
 * **Visual & 3D SLAM**
 * **Factor Graph Optimization**
 * **Multi-Sensor Fusion**
 * **Underwater Robotics**
 * **3D Gaussian Splatting for Robotics**
-* **Object-Level Perception & Pose Estimation**
-* **Learning-based Robotic Perception**
+* **Object-Level Perception & 6D Pose Estimation**
+* **Learning-Based Robotic Perception**
+* **Uncertainty Estimation for Robotic Perception**
 
 ---
 
-## 🎯 What Sets My Work Apart
+## 🎯 Technical Approach
 
-* Combine **classical robotics + modern deep learning**
-* Work with **real robotic sensors and real-world data**, not only benchmark datasets
-* Experience across the full perception pipeline:
-  **Sensors → Detection → Tracking → Segmentation → Depth → 3D → Pose → Localization**
-* Comfortable working from **mathematical algorithms to ROS 2 implementation**
-* Interested in turning **research methods into robust, working robotic systems**
+* Combine **classical robotics and geometric methods** with **modern deep learning**
+* Work with **real robotic sensors and real-world data**
+* Develop perception pipelines spanning **Sensors → Detection → Tracking → Segmentation → Depth → 3D → Pose → Localization**
+* Move between **mathematical algorithms, machine learning, and robotic software**
+* Focus on turning **research methods into practical robotic systems**
 
 ---
 
 ## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prakash-makvana/">LinkedIn</a>
-  •
-  <a href="https://github.com/prakashmakvana">GitHub</a>
-  •
-  <a href="mailto:pd06makvana@gmail.com">Email</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/prakash-makvana/) • [GitHub](https://github.com/prakashmakvana) • [Email](mailto:pd06makvana@gmail.com)
 
 ---
 
-> *Building robots that can perceive, localize, and understand the world around them.*
+> *Building systems that enable robots to perceive, localize, and understand the world around them.*
+
